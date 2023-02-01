@@ -2,9 +2,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=aliezvzz&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-一个正在dive into deep learning的硕士生 *Amateur programming enthusiast*
+一个正在dive into deep learning的硕士生 
 
-- 想要了解更多，博客这里有很多更多信息[AlieZVzz](https://aliezvzz.github.io/)
+
+*Amateur programming enthusiast*
+
+- 想要了解更多，博客这里有更多信息 [AlieZVzz](https://aliezvzz.github.io/)
 
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
