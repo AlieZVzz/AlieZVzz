@@ -25,5 +25,5 @@
 - [profile](https://aliezvzz.github.io/profile/)
 - [Douban movie Notion同步豆瓣电影至notion数据库](https://aliezvzz.github.io/Douban-movie-Notion/)
 - [Deep Learning Tuning Playbook](https://aliezvzz.github.io/Deep-Learning-Tuning-Playbook/)
-- [A Few Topical Tweets are Enough for Effective User Stance Detection](https://aliezvzz.github.io/A-Few-Topical-Tweets-are-Enough-for-Effective-User-Stance-Detection/)
+- [A Human-Centered Systematic Literature Review of Cyberbullying Detection Algorithms](https://aliezvzz.github.io/A-Human-Centered-Systematic-Literature-Review-of-Cyberbullying-Detection-Algorithms/)
 <!-- BLOG-POST-LIST:END -->
