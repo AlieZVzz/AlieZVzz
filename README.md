@@ -5,7 +5,7 @@
 一个正在dive into deep learning的硕士生 
 
 
-*Amateur programming enthusiast*
+*Amateur programming enthusiast*（Optimizing life with stochastic gradient descent）
 
 - 想要了解更多，博客这里有更多信息 [AlieZVzz](https://aliezvzz.github.io/)
 
