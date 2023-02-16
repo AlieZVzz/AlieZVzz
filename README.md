@@ -21,9 +21,9 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Five priorities for research](https://aliezvzz.github.io/ChatGPT-Five-priorities-for-research/)
+- [Knowledge Enhanced Target-Aware Stance Detection on Tweets.](https://aliezvzz.github.io/Knowledge-Enhanced-Target-Aware-Stance-Detection-on-Tweets/)
+- [ChatGPT：Five priorities for research](https://aliezvzz.github.io/ChatGPT-Five-priorities-for-research/)
 - [A Human-Centered Systematic Literature Review of Cyberbullying Detection Algorithms](https://aliezvzz.github.io/A-Human-Centered-Systematic-Literature-Review-of-Cyberbullying-Detection-Algorithms/)
 - [Pre-training is a Hot Topic](https://aliezvzz.github.io/Pre-training-is-a-Hot-Topic/)
 - [profile](https://aliezvzz.github.io/profile/)
-- [Douban movie Notion同步豆瓣电影至notion数据库](https://aliezvzz.github.io/Douban-movie-Notion/)
 <!-- BLOG-POST-LIST:END -->
