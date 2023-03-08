@@ -21,9 +21,9 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Toward human-centered AI-A perspective from human-computer interaction](https://aliezvzz.github.io/Toward-human-centered-AI-A-perspective-from-human-computer-interaction/)
 - [Human-Centric Research for NLP-Towards a Definition and Guiding Questions](https://aliezvzz.github.io/Human-Centric-Research-for-NLP/)
 - [Knowledge Enhanced Target-Aware Stance Detection on Tweets.](https://aliezvzz.github.io/Knowledge-Enhanced-Target-Aware-Stance-Detection-on-Tweets/)
 - [ChatGPT：Five priorities for research](https://aliezvzz.github.io/ChatGPT-Five-priorities-for-research/)
 - [A Human-Centered Systematic Literature Review of Cyberbullying Detection Algorithms](https://aliezvzz.github.io/A-Human-Centered-Systematic-Literature-Review-of-Cyberbullying-Detection-Algorithms/)
-- [Pre-training is a Hot Topic](https://aliezvzz.github.io/Pre-training-is-a-Hot-Topic/)
 <!-- BLOG-POST-LIST:END -->
