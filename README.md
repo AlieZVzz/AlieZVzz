@@ -21,9 +21,9 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Facilitating Knowledge Sharing from Domain Experts to Data Scientists for Building NLP Models](https://aliezvzz.github.io/Facilitating-Knowledge-Sharing/)
+- [Datasheets for datasets](https://aliezvzz.github.io/Datasheets-for-datasets.pdf/)
+- [Toward Practices for Human-Centered Machine Learning](https://aliezvzz.github.io/Toward-Practices-for-Human-Centered-Machine-Learning/)
 - [Toward human-centered AI-A perspective from human-computer interaction](https://aliezvzz.github.io/Toward-human-centered-AI-A-perspective-from-human-computer-interaction/)
 - [Human-Centric Research for NLP-Towards a Definition and Guiding Questions](https://aliezvzz.github.io/Human-Centric-Research-for-NLP/)
-- [Knowledge Enhanced Target-Aware Stance Detection on Tweets.](https://aliezvzz.github.io/Knowledge-Enhanced-Target-Aware-Stance-Detection-on-Tweets/)
-- [ChatGPT：Five priorities for research](https://aliezvzz.github.io/ChatGPT-Five-priorities-for-research/)
-- [A Human-Centered Systematic Literature Review of Cyberbullying Detection Algorithms](https://aliezvzz.github.io/A-Human-Centered-Systematic-Literature-Review-of-Cyberbullying-Detection-Algorithms/)
 <!-- BLOG-POST-LIST:END -->
