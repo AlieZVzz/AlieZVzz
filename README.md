@@ -21,9 +21,9 @@
 ### Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [A Survey of Large Language Models](https://aliezvzz.github.io/A-Survey-of-Large-Language-Models/)
 - [Facilitating Knowledge Sharing from Domain Experts to Data Scientists for Building NLP Models](https://aliezvzz.github.io/Facilitating-Knowledge-Sharing/)
 - [Datasheets for datasets](https://aliezvzz.github.io/Datasheets-for-datasets.pdf/)
 - [Toward Practices for Human-Centered Machine Learning](https://aliezvzz.github.io/Toward-Practices-for-Human-Centered-Machine-Learning/)
 - [Toward human-centered AI-A perspective from human-computer interaction](https://aliezvzz.github.io/Toward-human-centered-AI-A-perspective-from-human-computer-interaction/)
-- [Human-Centric Research for NLP-Towards a Definition and Guiding Questions](https://aliezvzz.github.io/Human-Centric-Research-for-NLP/)
 <!-- BLOG-POST-LIST:END -->
