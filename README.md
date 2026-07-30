@@ -21,9 +21,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我把豆瓣「看过」变成了一个自动生长的 Notion 电影库](https://aliezvzz.github.io/douban-notion-movie-workflow/)
 - [我做了一个「电子旅程」：让桌面截图自动变成 Notion 工作进展](https://aliezvzz.github.io/electronic-journey-screenshot-to-notion/)
 - [Notion 知识库重构思考](https://aliezvzz.github.io/Notion%E9%87%8D%E6%9E%84/)
 - [A Survey of Large Language Models](https://aliezvzz.github.io/A-Survey-of-Large-Language-Models/)
 - [Facilitating Knowledge Sharing from Domain Experts to Data Scientists for Building NLP Models](https://aliezvzz.github.io/Facilitating-Knowledge-Sharing/)
-- [Datasheets for datasets](https://aliezvzz.github.io/Datasheets-for-datasets.pdf/)
 <!-- BLOG-POST-LIST:END -->
