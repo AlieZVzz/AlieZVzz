@@ -1,6 +1,5 @@
-### Hi I`m AlieZVzz(Yuyang) 👋
+### Hi I`m AlieZVzz(Spike Faye) 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliezvzz&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 一个正在dive into deep learning的硕士生 
 
