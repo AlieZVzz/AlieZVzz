@@ -1,28 +1,29 @@
-### Hi I`m AlieZVzz(Spike Faye) 👋
+# Hi, I'm AlieZVzz (Spike Faye) 👋
 
+> Optimizing life with stochastic gradient descent.
 
-一个正在dive into deep learning的硕士生 
+关注 AI、NLP、人本机器学习与 AI Agent，也在持续构建让知识管理和个人工作流更清晰、更自动化的小产品。
 
+- 🔭 正在探索：AI Agent、知识管理与个人自动化
+- 🧠 长期关注：Deep Learning、NLP、Human-centered AI
+- 🛠️ 最近在做：Electronic Journey，让桌面截图自动沉淀为结构化的工作进展
+- ✍️ 我的博客：[aliezvzz.github.io](https://aliezvzz.github.io/)
 
-*Amateur programming enthusiast*（Optimizing life with stochastic gradient descent）
+## Tech Stack
 
-- 想要了解更多，博客这里有更多信息 [AlieZVzz](https://aliezvzz.github.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
+## Latest Blog Posts
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-MySQL-007396?style=flat-square&logo=MYSQL&logoColor=ffffff)
-![Pytorch](https://img.shields.io/badge/-Pytorch-e94a2d?style=flat-square&logo=pytorch&logoColor=ffffff)
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-
-### Latest Blog Posts
- 
 <!-- BLOG-POST-LIST:START -->
+- [我做了一个「电子旅程」：让桌面截图自动变成 Notion 工作进展](https://aliezvzz.github.io/electronic-journey-screenshot-to-notion/)
 - [Notion 知识库重构思考](https://aliezvzz.github.io/Notion%E9%87%8D%E6%9E%84/)
 - [A Survey of Large Language Models](https://aliezvzz.github.io/A-Survey-of-Large-Language-Models/)
 - [Facilitating Knowledge Sharing from Domain Experts to Data Scientists for Building NLP Models](https://aliezvzz.github.io/Facilitating-Knowledge-Sharing/)
 - [Datasheets for datasets](https://aliezvzz.github.io/Datasheets-for-datasets.pdf/)
-- [Toward Practices for Human-Centered Machine Learning](https://aliezvzz.github.io/Toward-Practices-for-Human-Centered-Machine-Learning/)
 <!-- BLOG-POST-LIST:END -->
